@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="E_Commerce2Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ARTICLEE">
+    <Key>
+      <PropertyRef Name="AR_Ref" />
+    </Key>
+    <Property Name="AR_Ref" Type="varchar" MaxLength="19" Nullable="false" />
+    <Property Name="AR_Design" Type="varchar" MaxLength="69" />
+    <Property Name="FA_CodeFamille" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="AR_UniteVen" Type="int" />
+    <Property Name="AR_PrixAch" Type="numeric" Precision="24" Scale="6" />
+    <Property Name="AR_PrixVen" Type="numeric" Precision="24" Scale="6" />
+    <Property Name="AR_PrixTTC" Type="int" />
+    <Property Name="AR_SuiviStock" Type="int" />
+    <Property Name="AR_Publie" Type="int" />
+    <Property Name="AR_Photo" Type="varchar" MaxLength="259" />
+  </EntityType>
+  <EntityType Name="cart">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="ClientID" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ArticleRef" Type="varchar" MaxLength="19" Nullable="false" />
+    <Property Name="Amount" Type="int" Nullable="false" />
+    <Property Name="DatePurchased" Type="datetime" />
+    <Property Name="IsInCart" Type="bit" />
+  </EntityType>
+  <EntityType Name="FAMILLE">
+    <Key>
+      <PropertyRef Name="FA_CodeFamille" />
+    </Key>
+    <Property Name="FA_CodeFamille" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="FA_Type" Type="smallint" />
+    <Property Name="FA_Intitule" Type="varchar" MaxLength="35" />
+    <Property Name="FA_UniteVen" Type="smallint" />
+    <Property Name="FA_Coef" Type="numeric" Precision="24" Scale="6" />
+    <Property Name="FA_SuiviStock" Type="smallint" />
+    <Property Name="FA_Garantie" Type="smallint" />
+    <Property Name="FA_CodeFiscal" Type="varchar" MaxLength="25" />
+    <Property Name="FA_UnitePoids" Type="smallint" />
+    <Property Name="FA_Publie" Type="smallint" />
+  </EntityType>
+  <EntityType Name="UserInformation">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="GUID" Type="nvarchar" MaxLength="50" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Adress" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="PostalCode" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_ARTICLEE_FAMILLE">
+    <End Role="FAMILLE" Type="Self.FAMILLE" Multiplicity="1" />
+    <End Role="ARTICLEE" Type="Self.ARTICLEE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FAMILLE">
+        <PropertyRef Name="FA_CodeFamille" />
+      </Principal>
+      <Dependent Role="ARTICLEE">
+        <PropertyRef Name="FA_CodeFamille" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="E_Commerce2ModelStoreContainer">
+    <EntitySet Name="ARTICLEE" EntityType="Self.ARTICLEE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="cart" EntityType="Self.cart" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FAMILLE" EntityType="Self.FAMILLE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserInformation" EntityType="Self.UserInformation" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_ARTICLEE_FAMILLE" Association="Self.FK_ARTICLEE_FAMILLE">
+      <End Role="FAMILLE" EntitySet="FAMILLE" />
+      <End Role="ARTICLEE" EntitySet="ARTICLEE" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

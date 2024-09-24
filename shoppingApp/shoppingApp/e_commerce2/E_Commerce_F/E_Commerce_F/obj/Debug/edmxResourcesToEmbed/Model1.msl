@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BIJOUModelStoreContainer" CdmEntityContainer="BIJOUEntities">
+    <EntitySetMapping Name="cart">
+      <EntityTypeMapping TypeName="BIJOUModel.cart">
+        <MappingFragment StoreEntitySet="cart">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="QTE" ColumnName="QTE" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="photo" ColumnName="photo" />
+          <ScalarProperty Name="AR_Ref" ColumnName="AR_Ref" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="F_ARTICLE">
+      <EntityTypeMapping TypeName="BIJOUModel.F_ARTICLE">
+        <MappingFragment StoreEntitySet="F_ARTICLE">
+          <ScalarProperty Name="AR_Ref" ColumnName="AR_Ref" />
+          <ScalarProperty Name="cbAR_Ref" ColumnName="cbAR_Ref" />
+          <ScalarProperty Name="AR_Design" ColumnName="AR_Design" />
+          <ScalarProperty Name="cbAR_Design" ColumnName="cbAR_Design" />
+          <ScalarProperty Name="FA_CodeFamille" ColumnName="FA_CodeFamille" />
+          <ScalarProperty Name="cbFA_CodeFamille" ColumnName="cbFA_CodeFamille" />
+          <ScalarProperty Name="AR_Substitut" ColumnName="AR_Substitut" />
+          <ScalarProperty Name="cbAR_Substitut" ColumnName="cbAR_Substitut" />
+          <ScalarProperty Name="AR_Raccourci" ColumnName="AR_Raccourci" />
+          <ScalarProperty Name="cbAR_Raccourci" ColumnName="cbAR_Raccourci" />
+          <ScalarProperty Name="AR_Garantie" ColumnName="AR_Garantie" />
+          <ScalarProperty Name="AR_UnitePoids" ColumnName="AR_UnitePoids" />
+          <ScalarProperty Name="AR_PoidsNet" ColumnName="AR_PoidsNet" />
+          <ScalarProperty Name="AR_PoidsBrut" ColumnName="AR_PoidsBrut" />
+          <ScalarProperty Name="AR_UniteVen" ColumnName="AR_UniteVen" />
+          <ScalarProperty Name="AR_PrixAch" ColumnName="AR_PrixAch" />
+          <ScalarProperty Name="AR_Coef" ColumnName="AR_Coef" />
+          <ScalarProperty Name="AR_PrixVen" ColumnName="AR_PrixVen" />
+          <ScalarProperty Name="AR_PrixTTC" ColumnName="AR_PrixTTC" />
+          <ScalarProperty Name="AR_Gamme1" ColumnName="AR_Gamme1" />
+          <ScalarProperty Name="AR_Gamme2" ColumnName="AR_Gamme2" />
+          <ScalarProperty Name="AR_SuiviStock" ColumnName="AR_SuiviStock" />
+          <ScalarProperty Name="AR_Nomencl" ColumnName="AR_Nomencl" />
+          <ScalarProperty Name="AR_Stat01" ColumnName="AR_Stat01" />
+          <ScalarProperty Name="AR_Stat02" ColumnName="AR_Stat02" />
+          <ScalarProperty Name="AR_Stat03" ColumnName="AR_Stat03" />
+          <ScalarProperty Name="AR_Stat04" ColumnName="AR_Stat04" />
+          <ScalarProperty Name="AR_Stat05" ColumnName="AR_Stat05" />
+          <ScalarProperty Name="AR_Escompte" ColumnName="AR_Escompte" />
+          <ScalarProperty Name="AR_Delai" ColumnName="AR_Delai" />
+          <ScalarProperty Name="AR_HorsStat" ColumnName="AR_HorsStat" />
+          <ScalarProperty Name="AR_VteDebit" ColumnName="AR_VteDebit" />
+          <ScalarProperty Name="AR_NotImp" ColumnName="AR_NotImp" />
+          <ScalarProperty Name="AR_Sommeil" ColumnName="AR_Sommeil" />
+          <ScalarProperty Name="AR_Langue1" ColumnName="AR_Langue1" />
+          <ScalarProperty Name="AR_Langue2" ColumnName="AR_Langue2" />
+          <ScalarProperty Name="AR_EdiCode" ColumnName="AR_EdiCode" />
+          <ScalarProperty Name="cbAR_EdiCode" ColumnName="cbAR_EdiCode" />
+          <ScalarProperty Name="AR_CodeBarre" ColumnName="AR_CodeBarre" />
+          <ScalarProperty Name="cbAR_CodeBarre" ColumnName="cbAR_CodeBarre" />
+          <ScalarProperty Name="AR_CodeFiscal" ColumnName="AR_CodeFiscal" />
+          <ScalarProperty Name="AR_Pays" ColumnName="AR_Pays" />
+          <ScalarProperty Name="AR_Frais01FR_Denomination" ColumnName="AR_Frais01FR_Denomination" />
+          <ScalarProperty Name="AR_Frais01FR_Rem01REM_Valeur" ColumnName="AR_Frais01FR_Rem01REM_Valeur" />
+          <ScalarProperty Name="AR_Frais01FR_Rem01REM_Type" ColumnName="AR_Frais01FR_Rem01REM_Type" />
+          <ScalarProperty Name="AR_Frais01FR_Rem02REM_Valeur" ColumnName="AR_Frais01FR_Rem02REM_Valeur" />
+          <ScalarProperty Name="AR_Frais01FR_Rem02REM_Type" ColumnName="AR_Frais01FR_Rem02REM_Type" />
+          <ScalarProperty Name="AR_Frais01FR_Rem03REM_Valeur" ColumnName="AR_Frais01FR_Rem03REM_Valeur" />
+          <ScalarProperty Name="AR_Frais01FR_Rem03REM_Type" ColumnName="AR_Frais01FR_Rem03REM_Type" />
+          <ScalarProperty Name="AR_Frais02FR_Denomination" ColumnName="AR_Frais02FR_Denomination" />
+          <ScalarProperty Name="AR_Frais02FR_Rem01REM_Valeur" ColumnName="AR_Frais02FR_Rem01REM_Valeur" />
+          <ScalarProperty Name="AR_Frais02FR_Rem01REM_Type" ColumnName="AR_Frais02FR_Rem01REM_Type" />
+          <ScalarProperty Name="AR_Frais02FR_Rem02REM_Valeur" ColumnName="AR_Frais02FR_Rem02REM_Valeur" />
+          <ScalarProperty Name="AR_Frais02FR_Rem02REM_Type" ColumnName="AR_Frais02FR_Rem02REM_Type" />
+          <ScalarProperty Name="AR_Frais02FR_Rem03REM_Valeur" ColumnName="AR_Frais02FR_Rem03REM_Valeur" />
+          <ScalarProperty Name="AR_Frais02FR_Rem03REM_Type" ColumnName="AR_Frais02FR_Rem03REM_Type" />
+          <ScalarProperty Name="AR_Frais03FR_Denomination" ColumnName="AR_Frais03FR_Denomination" />
+          <ScalarProperty Name="AR_Frais03FR_Rem01REM_Valeur" ColumnName="AR_Frais03FR_Rem01REM_Valeur" />
+          <ScalarProperty Name="AR_Frais03FR_Rem01REM_Type" ColumnName="AR_Frais03FR_Rem01REM_Type" />
+          <ScalarProperty Name="AR_Frais03FR_Rem02REM_Valeur" ColumnName="AR_Frais03FR_Rem02REM_Valeur" />
+          <ScalarProperty Name="AR_Frais03FR_Rem02REM_Type" ColumnName="AR_Frais03FR_Rem02REM_Type" />
+          <ScalarProperty Name="AR_Frais03FR_Rem03REM_Valeur" ColumnName="AR_Frais03FR_Rem03REM_Valeur" />
+          <ScalarProperty Name="AR_Frais03FR_Rem03REM_Type" ColumnName="AR_Frais03FR_Rem03REM_Type" />
+          <ScalarProperty Name="AR_Condition" ColumnName="AR_Condition" />
+          <ScalarProperty Name="AR_PUNet" ColumnName="AR_PUNet" />
+          <ScalarProperty Name="AR_Contremarque" ColumnName="AR_Contremarque" />
+          <ScalarProperty Name="AR_FactPoids" ColumnName="AR_FactPoids" />
+          <ScalarProperty Name="AR_FactForfait" ColumnName="AR_FactForfait" />
+          <ScalarProperty Name="AR_DateCreation" ColumnName="AR_DateCreation" />
+          <ScalarProperty Name="AR_SaisieVar" ColumnName="AR_SaisieVar" />
+          <ScalarProperty Name="AR_Transfere" ColumnName="AR_Transfere" />
+          <ScalarProperty Name="AR_Publie" ColumnName="AR_Publie" />
+          <ScalarProperty Name="AR_DateModif" ColumnName="AR_DateModif" />
+          <ScalarProperty Name="AR_Photo" ColumnName="AR_Photo" />
+          <ScalarProperty Name="AR_PrixAchNouv" ColumnName="AR_PrixAchNouv" />
+          <ScalarProperty Name="AR_CoefNouv" ColumnName="AR_CoefNouv" />
+          <ScalarProperty Name="AR_PrixVenNouv" ColumnName="AR_PrixVenNouv" />
+          <ScalarProperty Name="AR_DateApplication" ColumnName="AR_DateApplication" />
+          <ScalarProperty Name="AR_CoutStd" ColumnName="AR_CoutStd" />
+          <ScalarProperty Name="AR_QteComp" ColumnName="AR_QteComp" />
+          <ScalarProperty Name="AR_QteOperatoire" ColumnName="AR_QteOperatoire" />
+          <ScalarProperty Name="CO_No" ColumnName="CO_No" />
+          <ScalarProperty Name="cbCO_No" ColumnName="cbCO_No" />
+          <ScalarProperty Name="AR_Prevision" ColumnName="AR_Prevision" />
+          <ScalarProperty Name="CL_No1" ColumnName="CL_No1" />
+          <ScalarProperty Name="cbCL_No1" ColumnName="cbCL_No1" />
+          <ScalarProperty Name="CL_No2" ColumnName="CL_No2" />
+          <ScalarProperty Name="cbCL_No2" ColumnName="cbCL_No2" />
+          <ScalarProperty Name="CL_No3" ColumnName="CL_No3" />
+          <ScalarProperty Name="cbCL_No3" ColumnName="cbCL_No3" />
+          <ScalarProperty Name="CL_No4" ColumnName="CL_No4" />
+          <ScalarProperty Name="cbCL_No4" ColumnName="cbCL_No4" />
+          <ScalarProperty Name="AR_Type" ColumnName="AR_Type" />
+          <ScalarProperty Name="RP_CodeDefaut" ColumnName="RP_CodeDefaut" />
+          <ScalarProperty Name="AR_Nature" ColumnName="AR_Nature" />
+          <ScalarProperty Name="AR_DelaiFabrication" ColumnName="AR_DelaiFabrication" />
+          <ScalarProperty Name="AR_NbColis" ColumnName="AR_NbColis" />
+          <ScalarProperty Name="AR_DelaiPeremption" ColumnName="AR_DelaiPeremption" />
+          <ScalarProperty Name="AR_DelaiSecurite" ColumnName="AR_DelaiSecurite" />
+          <ScalarProperty Name="AR_Fictif" ColumnName="AR_Fictif" />
+          <ScalarProperty Name="AR_SousTraitance" ColumnName="AR_SousTraitance" />
+          <ScalarProperty Name="AR_TypeLancement" ColumnName="AR_TypeLancement" />
+          <ScalarProperty Name="AR_Cycle" ColumnName="AR_Cycle" />
+          <ScalarProperty Name="AR_Criticite" ColumnName="AR_Criticite" />
+          <ScalarProperty Name="cbProt" ColumnName="cbProt" />
+          <ScalarProperty Name="cbMarq" ColumnName="cbMarq" />
+          <ScalarProperty Name="cbCreateur" ColumnName="cbCreateur" />
+          <ScalarProperty Name="cbModification" ColumnName="cbModification" />
+          <ScalarProperty Name="cbReplication" ColumnName="cbReplication" />
+          <ScalarProperty Name="cbFlag" ColumnName="cbFlag" />
+          <ScalarProperty Name="C1ère_commercialisation" ColumnName="1ère commercialisation" />
+          <ScalarProperty Name="Marque_commerciale" ColumnName="Marque commerciale" />
+          <ScalarProperty Name="Objectif___Qtés_vendues" ColumnName="Objectif / Qtés vendues" />
+          <ScalarProperty Name="Pourcentage_teneur_en_or" ColumnName="Pourcentage teneur en or" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="F_FAMILLE">
+      <EntityTypeMapping TypeName="BIJOUModel.F_FAMILLE">
+        <MappingFragment StoreEntitySet="F_FAMILLE">
+          <ScalarProperty Name="FA_CodeFamille" ColumnName="FA_CodeFamille" />
+          <ScalarProperty Name="cbFA_CodeFamille" ColumnName="cbFA_CodeFamille" />
+          <ScalarProperty Name="FA_Type" ColumnName="FA_Type" />
+          <ScalarProperty Name="FA_Intitule" ColumnName="FA_Intitule" />
+          <ScalarProperty Name="cbFA_Intitule" ColumnName="cbFA_Intitule" />
+          <ScalarProperty Name="FA_UniteVen" ColumnName="FA_UniteVen" />
+          <ScalarProperty Name="FA_Coef" ColumnName="FA_Coef" />
+          <ScalarProperty Name="FA_SuiviStock" ColumnName="FA_SuiviStock" />
+          <ScalarProperty Name="FA_Garantie" ColumnName="FA_Garantie" />
+          <ScalarProperty Name="FA_Central" ColumnName="FA_Central" />
+          <ScalarProperty Name="cbFA_Central" ColumnName="cbFA_Central" />
+          <ScalarProperty Name="FA_Stat01" ColumnName="FA_Stat01" />
+          <ScalarProperty Name="FA_Stat02" ColumnName="FA_Stat02" />
+          <ScalarProperty Name="FA_Stat03" ColumnName="FA_Stat03" />
+          <ScalarProperty Name="FA_Stat04" ColumnName="FA_Stat04" />
+          <ScalarProperty Name="FA_Stat05" ColumnName="FA_Stat05" />
+          <ScalarProperty Name="FA_CodeFiscal" ColumnName="FA_CodeFiscal" />
+          <ScalarProperty Name="FA_Pays" ColumnName="FA_Pays" />
+          <ScalarProperty Name="FA_UnitePoids" ColumnName="FA_UnitePoids" />
+          <ScalarProperty Name="FA_Escompte" ColumnName="FA_Escompte" />
+          <ScalarProperty Name="FA_Delai" ColumnName="FA_Delai" />
+          <ScalarProperty Name="FA_HorsStat" ColumnName="FA_HorsStat" />
+          <ScalarProperty Name="FA_VteDebit" ColumnName="FA_VteDebit" />
+          <ScalarProperty Name="FA_NotImp" ColumnName="FA_NotImp" />
+          <ScalarProperty Name="FA_Frais01FR_Denomination" ColumnName="FA_Frais01FR_Denomination" />
+          <ScalarProperty Name="FA_Frais01FR_Rem01REM_Valeur" ColumnName="FA_Frais01FR_Rem01REM_Valeur" />
+          <ScalarProperty Name="FA_Frais01FR_Rem01REM_Type" ColumnName="FA_Frais01FR_Rem01REM_Type" />
+          <ScalarProperty Name="FA_Frais01FR_Rem02REM_Valeur" ColumnName="FA_Frais01FR_Rem02REM_Valeur" />
+          <ScalarProperty Name="FA_Frais01FR_Rem02REM_Type" ColumnName="FA_Frais01FR_Rem02REM_Type" />
+          <ScalarProperty Name="FA_Frais01FR_Rem03REM_Valeur" ColumnName="FA_Frais01FR_Rem03REM_Valeur" />
+          <ScalarProperty Name="FA_Frais01FR_Rem03REM_Type" ColumnName="FA_Frais01FR_Rem03REM_Type" />
+          <ScalarProperty Name="FA_Frais02FR_Denomination" ColumnName="FA_Frais02FR_Denomination" />
+          <ScalarProperty Name="FA_Frais02FR_Rem01REM_Valeur" ColumnName="FA_Frais02FR_Rem01REM_Valeur" />
+          <ScalarProperty Name="FA_Frais02FR_Rem01REM_Type" ColumnName="FA_Frais02FR_Rem01REM_Type" />
+          <ScalarProperty Name="FA_Frais02FR_Rem02REM_Valeur" ColumnName="FA_Frais02FR_Rem02REM_Valeur" />
+          <ScalarProperty Name="FA_Frais02FR_Rem02REM_Type" ColumnName="FA_Frais02FR_Rem02REM_Type" />
+          <ScalarProperty Name="FA_Frais02FR_Rem03REM_Valeur" ColumnName="FA_Frais02FR_Rem03REM_Valeur" />
+          <ScalarProperty Name="FA_Frais02FR_Rem03REM_Type" ColumnName="FA_Frais02FR_Rem03REM_Type" />
+          <ScalarProperty Name="FA_Frais03FR_Denomination" ColumnName="FA_Frais03FR_Denomination" />
+          <ScalarProperty Name="FA_Frais03FR_Rem01REM_Valeur" ColumnName="FA_Frais03FR_Rem01REM_Valeur" />
+          <ScalarProperty Name="FA_Frais03FR_Rem01REM_Type" ColumnName="FA_Frais03FR_Rem01REM_Type" />
+          <ScalarProperty Name="FA_Frais03FR_Rem02REM_Valeur" ColumnName="FA_Frais03FR_Rem02REM_Valeur" />
+          <ScalarProperty Name="FA_Frais03FR_Rem02REM_Type" ColumnName="FA_Frais03FR_Rem02REM_Type" />
+          <ScalarProperty Name="FA_Frais03FR_Rem03REM_Valeur" ColumnName="FA_Frais03FR_Rem03REM_Valeur" />
+          <ScalarProperty Name="FA_Frais03FR_Rem03REM_Type" ColumnName="FA_Frais03FR_Rem03REM_Type" />
+          <ScalarProperty Name="FA_Contremarque" ColumnName="FA_Contremarque" />
+          <ScalarProperty Name="FA_FactPoids" ColumnName="FA_FactPoids" />
+          <ScalarProperty Name="FA_FactForfait" ColumnName="FA_FactForfait" />
+          <ScalarProperty Name="FA_Publie" ColumnName="FA_Publie" />
+          <ScalarProperty Name="FA_RacineRef" ColumnName="FA_RacineRef" />
+          <ScalarProperty Name="FA_RacineCB" ColumnName="FA_RacineCB" />
+          <ScalarProperty Name="CL_No1" ColumnName="CL_No1" />
+          <ScalarProperty Name="cbCL_No1" ColumnName="cbCL_No1" />
+          <ScalarProperty Name="CL_No2" ColumnName="CL_No2" />
+          <ScalarProperty Name="cbCL_No2" ColumnName="cbCL_No2" />
+          <ScalarProperty Name="CL_No3" ColumnName="CL_No3" />
+          <ScalarProperty Name="cbCL_No3" ColumnName="cbCL_No3" />
+          <ScalarProperty Name="CL_No4" ColumnName="CL_No4" />
+          <ScalarProperty Name="cbCL_No4" ColumnName="cbCL_No4" />
+          <ScalarProperty Name="FA_Nature" ColumnName="FA_Nature" />
+          <ScalarProperty Name="FA_NbColis" ColumnName="FA_NbColis" />
+          <ScalarProperty Name="FA_SousTraitance" ColumnName="FA_SousTraitance" />
+          <ScalarProperty Name="FA_Fictif" ColumnName="FA_Fictif" />
+          <ScalarProperty Name="FA_Criticite" ColumnName="FA_Criticite" />
+          <ScalarProperty Name="cbProt" ColumnName="cbProt" />
+          <ScalarProperty Name="cbMarq" ColumnName="cbMarq" />
+          <ScalarProperty Name="cbCreateur" ColumnName="cbCreateur" />
+          <ScalarProperty Name="cbModification" ColumnName="cbModification" />
+          <ScalarProperty Name="cbReplication" ColumnName="cbReplication" />
+          <ScalarProperty Name="cbFlag" ColumnName="cbFlag" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

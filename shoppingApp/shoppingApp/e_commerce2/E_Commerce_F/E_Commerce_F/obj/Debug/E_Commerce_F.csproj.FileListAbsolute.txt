@@ -1,0 +1,42 @@
+D:\E_Commerce_F\E_Commerce_F\bin\E_Commerce_F.dll.config
+D:\E_Commerce_F\E_Commerce_F\bin\E_Commerce_F.dll
+D:\E_Commerce_F\E_Commerce_F\bin\E_Commerce_F.pdb
+D:\E_Commerce_F\E_Commerce_F\obj\Debug\E_Commerce_F.dll
+D:\E_Commerce_F\E_Commerce_F\obj\Debug\E_Commerce_F.pdb
+D:\E_Commerce_F\E_Commerce_F\bin\EntityFramework.dll
+D:\E_Commerce_F\E_Commerce_F\bin\EntityFramework.SqlServer.dll
+D:\E_Commerce_F\E_Commerce_F\bin\EntityFramework.xml
+D:\E_Commerce_F\E_Commerce_F\bin\EntityFramework.SqlServer.xml
+D:\E_Commerce_F\E_Commerce_F\obj\Debug\E_Commerce_F.csprojResolveAssemblyReference.cache
+F:\E_Commerce_F\E_Commerce_F\obj\Debug\E_Commerce_F.csprojResolveAssemblyReference.cache
+F:\E_Commerce_F\E_Commerce_F\obj\Debug\E_Commerce_F.dll
+F:\E_Commerce_F\E_Commerce_F\bin\E_Commerce_F.dll.config
+F:\E_Commerce_F\E_Commerce_F\bin\E_Commerce_F.dll
+F:\E_Commerce_F\E_Commerce_F\bin\E_Commerce_F.pdb
+F:\E_Commerce_F\E_Commerce_F\bin\EntityFramework.dll
+F:\E_Commerce_F\E_Commerce_F\bin\EntityFramework.SqlServer.dll
+F:\E_Commerce_F\E_Commerce_F\bin\EntityFramework.xml
+F:\E_Commerce_F\E_Commerce_F\bin\EntityFramework.SqlServer.xml
+F:\E_Commerce_F\E_Commerce_F\obj\Debug\E_Commerce_F.pdb
+J:\E_Commerce_F\E_Commerce_F\bin\E_Commerce_F.dll.config
+J:\E_Commerce_F\E_Commerce_F\bin\E_Commerce_F.dll
+J:\E_Commerce_F\E_Commerce_F\bin\E_Commerce_F.pdb
+J:\E_Commerce_F\E_Commerce_F\bin\EntityFramework.dll
+J:\E_Commerce_F\E_Commerce_F\bin\EntityFramework.SqlServer.dll
+J:\E_Commerce_F\E_Commerce_F\bin\EntityFramework.xml
+J:\E_Commerce_F\E_Commerce_F\bin\EntityFramework.SqlServer.xml
+J:\E_Commerce_F\E_Commerce_F\obj\Debug\E_Commerce_F.csprojResolveAssemblyReference.cache
+J:\E_Commerce_F\E_Commerce_F\obj\Debug\E_Commerce_F.dll
+J:\E_Commerce_F\E_Commerce_F\obj\Debug\E_Commerce_F.pdb
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\E_Commerce_F\E_Commerce_F\bin\E_Commerce_F.dll.config
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\E_Commerce_F\E_Commerce_F\bin\E_Commerce_F.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\E_Commerce_F\E_Commerce_F\bin\E_Commerce_F.pdb
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\E_Commerce_F\E_Commerce_F\bin\EntityFramework.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\E_Commerce_F\E_Commerce_F\bin\EntityFramework.SqlServer.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\E_Commerce_F\E_Commerce_F\bin\EntityFramework.xml
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\E_Commerce_F\E_Commerce_F\bin\EntityFramework.SqlServer.xml
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\E_Commerce_F\E_Commerce_F\obj\Debug\E_Commerce_F.csproj.AssemblyReference.cache
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\E_Commerce_F\E_Commerce_F\obj\Debug\E_Commerce_F.csproj.CoreCompileInputs.cache
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\E_Commerce_F\E_Commerce_F\obj\Debug\E_Commerce_F.csproj.CopyComplete
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\E_Commerce_F\E_Commerce_F\obj\Debug\E_Commerce_F.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\E_Commerce_F\E_Commerce_F\obj\Debug\E_Commerce_F.pdb

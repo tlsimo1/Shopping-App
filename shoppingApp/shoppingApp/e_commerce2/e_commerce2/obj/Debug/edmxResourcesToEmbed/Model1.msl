@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="E_Commerce2ModelStoreContainer" CdmEntityContainer="E_Commerce2Entities4">
+    <EntitySetMapping Name="ARTICLEE">
+      <EntityTypeMapping TypeName="E_Commerce2Model.ARTICLEE">
+        <MappingFragment StoreEntitySet="ARTICLEE">
+          <ScalarProperty Name="AR_Ref" ColumnName="AR_Ref" />
+          <ScalarProperty Name="AR_Design" ColumnName="AR_Design" />
+          <ScalarProperty Name="FA_CodeFamille" ColumnName="FA_CodeFamille" />
+          <ScalarProperty Name="AR_UniteVen" ColumnName="AR_UniteVen" />
+          <ScalarProperty Name="AR_PrixAch" ColumnName="AR_PrixAch" />
+          <ScalarProperty Name="AR_PrixVen" ColumnName="AR_PrixVen" />
+          <ScalarProperty Name="AR_PrixTTC" ColumnName="AR_PrixTTC" />
+          <ScalarProperty Name="AR_SuiviStock" ColumnName="AR_SuiviStock" />
+          <ScalarProperty Name="AR_Publie" ColumnName="AR_Publie" />
+          <ScalarProperty Name="AR_Photo" ColumnName="AR_Photo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cart">
+      <EntityTypeMapping TypeName="E_Commerce2Model.cart">
+        <MappingFragment StoreEntitySet="cart">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ClientID" ColumnName="ClientID" />
+          <ScalarProperty Name="ArticleRef" ColumnName="ArticleRef" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="DatePurchased" ColumnName="DatePurchased" />
+          <ScalarProperty Name="IsInCart" ColumnName="IsInCart" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FAMILLE">
+      <EntityTypeMapping TypeName="E_Commerce2Model.FAMILLE">
+        <MappingFragment StoreEntitySet="FAMILLE">
+          <ScalarProperty Name="FA_CodeFamille" ColumnName="FA_CodeFamille" />
+          <ScalarProperty Name="FA_Type" ColumnName="FA_Type" />
+          <ScalarProperty Name="FA_Intitule" ColumnName="FA_Intitule" />
+          <ScalarProperty Name="FA_UniteVen" ColumnName="FA_UniteVen" />
+          <ScalarProperty Name="FA_Coef" ColumnName="FA_Coef" />
+          <ScalarProperty Name="FA_SuiviStock" ColumnName="FA_SuiviStock" />
+          <ScalarProperty Name="FA_Garantie" ColumnName="FA_Garantie" />
+          <ScalarProperty Name="FA_CodeFiscal" ColumnName="FA_CodeFiscal" />
+          <ScalarProperty Name="FA_UnitePoids" ColumnName="FA_UnitePoids" />
+          <ScalarProperty Name="FA_Publie" ColumnName="FA_Publie" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserInformation">
+      <EntityTypeMapping TypeName="E_Commerce2Model.UserInformation">
+        <MappingFragment StoreEntitySet="UserInformation">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="GUID" ColumnName="GUID" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Adress" ColumnName="Adress" />
+          <ScalarProperty Name="PostalCode" ColumnName="PostalCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

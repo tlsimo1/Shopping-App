@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="E_Commerce2Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ARTICLEE">
+    <Key>
+      <PropertyRef Name="AR_Ref" />
+    </Key>
+    <Property Name="AR_Ref" Type="String" MaxLength="19" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="AR_Design" Type="String" MaxLength="69" FixedLength="false" Unicode="false" />
+    <Property Name="FA_CodeFamille" Type="String" MaxLength="11" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="AR_UniteVen" Type="Int32" />
+    <Property Name="AR_PrixAch" Type="Decimal" Precision="24" Scale="6" />
+    <Property Name="AR_PrixVen" Type="Decimal" Precision="24" Scale="6" />
+    <Property Name="AR_PrixTTC" Type="Int32" />
+    <Property Name="AR_SuiviStock" Type="Int32" />
+    <Property Name="AR_Publie" Type="Int32" />
+    <Property Name="AR_Photo" Type="String" MaxLength="259" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="FAMILLE" Relationship="Self.FK_ARTICLEE_FAMILLE" FromRole="ARTICLEE" ToRole="FAMILLE" />
+  </EntityType>
+  <EntityType Name="cart">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="ClientID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ArticleRef" Type="String" MaxLength="19" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Amount" Type="Int32" Nullable="false" />
+    <Property Name="DatePurchased" Type="DateTime" Precision="3" />
+    <Property Name="IsInCart" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="FAMILLE">
+    <Key>
+      <PropertyRef Name="FA_CodeFamille" />
+    </Key>
+    <Property Name="FA_CodeFamille" Type="String" MaxLength="11" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FA_Type" Type="Int16" />
+    <Property Name="FA_Intitule" Type="String" MaxLength="35" FixedLength="false" Unicode="false" />
+    <Property Name="FA_UniteVen" Type="Int16" />
+    <Property Name="FA_Coef" Type="Decimal" Precision="24" Scale="6" />
+    <Property Name="FA_SuiviStock" Type="Int16" />
+    <Property Name="FA_Garantie" Type="Int16" />
+    <Property Name="FA_CodeFiscal" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="FA_UnitePoids" Type="Int16" />
+    <Property Name="FA_Publie" Type="Int16" />
+    <NavigationProperty Name="ARTICLEE" Relationship="Self.FK_ARTICLEE_FAMILLE" FromRole="FAMILLE" ToRole="ARTICLEE" />
+  </EntityType>
+  <EntityType Name="UserInformation">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="GUID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Adress" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PostalCode" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_ARTICLEE_FAMILLE">
+    <End Role="FAMILLE" Type="Self.FAMILLE" Multiplicity="1" />
+    <End Role="ARTICLEE" Type="Self.ARTICLEE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FAMILLE">
+        <PropertyRef Name="FA_CodeFamille" />
+      </Principal>
+      <Dependent Role="ARTICLEE">
+        <PropertyRef Name="FA_CodeFamille" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="E_Commerce2Entities4" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ARTICLEE" EntityType="Self.ARTICLEE" />
+    <EntitySet Name="cart" EntityType="Self.cart" />
+    <EntitySet Name="FAMILLE" EntityType="Self.FAMILLE" />
+    <EntitySet Name="UserInformation" EntityType="Self.UserInformation" />
+    <AssociationSet Name="FK_ARTICLEE_FAMILLE" Association="Self.FK_ARTICLEE_FAMILLE">
+      <End Role="FAMILLE" EntitySet="FAMILLE" />
+      <End Role="ARTICLEE" EntitySet="ARTICLEE" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,142 @@
+D:\e_commerce2\e_commerce2\bin\e_commerce2.dll.config
+D:\e_commerce2\e_commerce2\bin\e_commerce2.dll
+D:\e_commerce2\e_commerce2\bin\e_commerce2.pdb
+D:\e_commerce2\e_commerce2\obj\Debug\e_commerce2.csprojResolveAssemblyReference.cache
+D:\e_commerce2\e_commerce2\obj\Debug\e_commerce2.dll
+D:\e_commerce2\e_commerce2\obj\Debug\e_commerce2.pdb
+F:\PROJET E COMMERCE\e_commerce2\e_commerce2\obj\Debug\e_commerce2.csprojResolveAssemblyReference.cache
+F:\PROJET E COMMERCE\e_commerce2\e_commerce2\obj\Debug\e_commerce2.dll
+F:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\e_commerce2.dll.config
+F:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\e_commerce2.dll
+F:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\e_commerce2.pdb
+F:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\EntityFramework.dll
+F:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\EntityFramework.SqlServer.dll
+F:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\EntityFramework.xml
+F:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\EntityFramework.SqlServer.xml
+F:\PROJET E COMMERCE\e_commerce2\e_commerce2\obj\Debug\e_commerce2.pdb
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\e_commerce2.dll.config
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\e_commerce2.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\e_commerce2.pdb
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\EntityFramework.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\EntityFramework.SqlServer.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\EntityFramework.xml
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\EntityFramework.SqlServer.xml
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\obj\Debug\e_commerce2.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\obj\Debug\e_commerce2.pdb
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\obj\Debug\e_commerce2.csprojResolveAssemblyReference.cache
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Core.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.Owin.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.Cookies.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.OAuth.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Newtonsoft.Json.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Owin.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Core.xml
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.Owin.xml
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.xml
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.Cookies.xml
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.OAuth.xml
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\Newtonsoft.Json.xml
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\fr\EntityFramework.resources.dll
+J:\PROJET E COMMERCE\e_commerce2\e_commerce2\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\e_commerce2.dll.config
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\e_commerce2.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\e_commerce2.pdb
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\EntityFramework.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\EntityFramework.SqlServer.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Newtonsoft.Json.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Owin.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\EntityFramework.xml
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\EntityFramework.SqlServer.xml
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.xml
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.xml
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\Newtonsoft.Json.xml
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\fr\EntityFramework.resources.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\obj\Debug\e_commerce2.csprojResolveAssemblyReference.cache
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\obj\Debug\e_commerce2.dll
+C:\Users\agitech\Desktop\shoppingApp\e_commerce2\e_commerce2\obj\Debug\e_commerce2.pdb
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\e_commerce2.dll.config
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\e_commerce2.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\e_commerce2.pdb
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\EntityFramework.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\EntityFramework.SqlServer.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Core.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.Cookies.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.OAuth.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Newtonsoft.Json.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Owin.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\EntityFramework.xml
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\EntityFramework.SqlServer.xml
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Core.xml
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.xml
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.xml
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.Cookies.xml
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.OAuth.xml
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Newtonsoft.Json.xml
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\fr\EntityFramework.resources.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\fr\EntityFramework.SqlServer.resources.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\obj\Debug\e_commerce2.csprojResolveAssemblyReference.cache
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\obj\Debug\e_commerce2.dll
+J:\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\obj\Debug\e_commerce2.pdb
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\e_commerce2.dll.config
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\e_commerce2.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\e_commerce2.pdb
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\EntityFramework.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\EntityFramework.SqlServer.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Newtonsoft.Json.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Owin.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\EntityFramework.xml
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\EntityFramework.SqlServer.xml
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.xml
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.xml
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\Newtonsoft.Json.xml
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\fr\EntityFramework.resources.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\bin\fr\EntityFramework.SqlServer.resources.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\obj\Debug\e_commerce2.csproj.AssemblyReference.cache
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\obj\Debug\e_commerce2.csproj.CoreCompileInputs.cache
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\obj\Debug\e_commerce2.csproj.CopyComplete
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\obj\Debug\e_commerce2.dll
+D:\ALL PROJETS\ALL PROJETS\AJITECH\shoppingApp\shoppingApp\shoppingApp\e_commerce2\e_commerce2\obj\Debug\e_commerce2.pdb
